@@ -1,0 +1,84 @@
+body {
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+
+    /*background-image: url("/assets/img/bg-header.jpg");*/
+    
+}
+.head {
+    background: #000000;
+    text-align: center;
+
+    
+}
+.mainiguana {
+    max-width: 50px;
+    
+}
+.maininfo {
+    display: flow-root;
+
+    background-color: black;
+    padding-inline: 150pt;
+    padding-top: 40pt;
+    padding-bottom: 40pt;
+    
+}
+.info {
+
+ 
+
+}
+.maininfo img {
+    margin-left: 10%;
+    float: right;
+    width: 300pt;
+    height: auto;
+    object-fit: cover;
+    
+}
+
+.galeriaicon {
+    display: flex;
+    text-align: center;
+    background-color: #1E1A13;
+    padding-inline: 150pt;
+    padding-top: 40pt;
+    padding-bottom: 40pt; 
+}
+.caracteristicas {
+    
+    text-align: center;
+    background-color: #1E1A13;
+   
+    padding-top: 40pt;
+    padding-bottom: 10pt; 
+}
+.bottom {
+    text-align: center;
+    background-color: #1E1A13;
+    padding-inline: 150pt;
+    padding-top: 20pt;
+    padding-bottom: 20pt;
+  
+}
+.columna {
+    flex: auto;
+
+  }
+.columna img {
+    
+    width: 300pt;
+    height: 200pt;
+    padding: 10pt;
+    object-fit: cover;
+}
+  .galeria {
+  display: flex;
+  text-align: center;
+  background-color: black;
+    padding-inline: 100pt;
+    padding-top: 40pt;
+    padding-bottom: 40pt;
+  }
